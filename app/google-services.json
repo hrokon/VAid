@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236972279853",
+    "project_id": "visualaid-1ee70",
+    "storage_bucket": "visualaid-1ee70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236972279853:android:a9ff7188984113a82790a4",
+        "android_client_info": {
+          "package_name": "com.example.visualaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236972279853-g55eumilcd5klbk3ik18n1hvm3vnfnmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqTteqcMCs4GU_H95a8dyCBeObph93U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236972279853-g55eumilcd5klbk3ik18n1hvm3vnfnmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
